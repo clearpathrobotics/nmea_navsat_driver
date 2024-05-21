@@ -2,8 +2,8 @@
 Changelog for package nmea_navsat_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.2 (2024-05-21)
+------------------
 * Changed tf_transformations to python3-transforms3d.
 * Sentence field must be of type str (`#173 <https://github.com/clearpathrobotics/nmea_navsat_driver/issues/173>`_)
   In nmea_topic_serial_reader, sentence field is a bytes object and should be a str object.
