@@ -2,6 +2,13 @@
 Changelog for package nmea_navsat_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#1 <https://github.com/clearpathrobotics/nmea_navsat_driver/issues/1>`_ from clearpathrobotics/lcamero/tf_depend
+  Add exec_depend for tf_transformations
+* Add exec_depend for tf_transformations
+* Contributors: Luis Camero, Tony Baltovski
+
 2.0.2 (2024-05-21)
 ------------------
 * Changed tf_transformations to python3-transforms3d.
