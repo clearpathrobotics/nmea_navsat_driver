@@ -2,8 +2,8 @@
 Changelog for package nmea_navsat_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.4 (2026-06-23)
+------------------
 * Removed tf_transformations dependency.
 * Contributors: Tony Baltovski
 
